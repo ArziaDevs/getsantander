@@ -1,48 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-   <key>items</key>
-   <array>
-       <dict>
-           <key>assets</key>
-           <array>
-               <dict>
-                   <key>kind</key>
-                   <string>software-package</string>
-                   <key>url</key>
-                   <string>https://github.com/utmapp/UTM/releases/download/v4.2.5/UTM.SE.ipa</string>
-               </dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
 				<dict>
 					<key>kind</key>
-					<string>full-size-image</string>
-					<key>needs-shine</key>
-					<true/>
+					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/SuperS0n1k/alstore/main/UTM.PNG</string>
+					<string>https://zeus.me/dl/ipa/santander.ipa</string>
 				</dict>
-               <dict>
-                   <key>kind</key>
-                   <string>display-image</string>
-                   <key>needs-shine</key>
-                   <true/>
-                   <key>url</key>
-                   <string>https://raw.githubusercontent.com/SuperS0n1k/alstore/main/UTM.PNG</string>
-               </dict>
-           </array><key>metadata</key>
-           <dict>
-               <key>bundle-identifier</key>
-               <string>com.getutm.UTM</string>
-               <key>bundle-version</key>
-               <string>1.0</string>
-               <key>kind</key>
-               <string>software</string>
-               <key>subtitle</key>
-               <string></string>
-               <key>title</key>
-               <string>UTM</string>
-           </dict>
-       </dict>
-   </array>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>11637299393923390527301950265970749168929094164809463472621886251471698672430039198912705817</string>
+				<key>bundle-version</key>
+				<string>1.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>SantanderEscaped</string>
+			</dict>
+		</dict>
+	</array>
 </dict>
 </plist>
